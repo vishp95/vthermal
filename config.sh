@@ -9,9 +9,9 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "******************************"
-  ui_print "	V-Thermal Fast Charging   "
-  ui_print "			for RN7P		  "
-  ui_print "		   by Vishal P		  "
+  ui_print "	V-Thermal Fast Charging     "
+  ui_print "			    for RN7P		        "
+  ui_print "		     by Vishal P		      "
   ui_print "******************************"
 }
 REPLACE="
