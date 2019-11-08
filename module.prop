@@ -4,4 +4,3 @@ version=v1.0
 versionCode=10
 author=Vishal P
 description=This module optimizes the threshold values of charge throttling to give you faster charging speeds. Only for Xiaomi Redmi Note 7 Pro(violet).
-minMagisk=17000
